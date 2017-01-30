@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+/**/
+
+.imgFondo{
+    background-image: url("../img/s1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logobar{
+  height: 40px;
+  vertical-align: middle;
+  padding-left: 20px;
+}
+
+.network{
+  width: 50px;
+}
+
+
+.parallax-container {
+      height: "250px";
+    }
